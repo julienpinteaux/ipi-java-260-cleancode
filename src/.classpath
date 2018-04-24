@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Julien/eclipse/eclipse-workspace-javeEE-Pedrillo/Sources Bowling/ipi-java-260-cleancode/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julien/eclipse/eclipse-workspace-javeEE-Pedrillo/Sources Bowling/ipi-java-260-cleancode/junit-4.12.jar" sourcepath="C:/Users/Julien/eclipse/eclipse-workspace-javeEE-Pedrillo/Repository/junit/junit/4.12/junit-4.12-sources.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
