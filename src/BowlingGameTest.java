@@ -53,7 +53,7 @@ public class BowlingGameTest {
         game.roll(2);
         game.roll(8);
         game.roll(3);
-        game.roll(9);
+        game.roll(7);
         game.roll(0);
         game.roll(1);
         game.roll(5);
@@ -65,8 +65,8 @@ public class BowlingGameTest {
         game.roll(1);
         game.roll(1);
         game.roll(8);
-        game.roll(8);
-        assertEquals(88, game.getScore());
+        game.roll(1);
+        assertEquals(91, game.getScore());
     }
 
     private void rollMany(int numberRolls, int numberPins) {

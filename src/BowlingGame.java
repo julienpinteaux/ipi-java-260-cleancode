@@ -4,7 +4,7 @@ public class BowlingGame {
 
     private Integer score= 0;
     private Integer round = 1;
-    private Integer tableauCoups[] = new Integer[21];
+    private Integer tableauCoups[] = new Integer[25];
 
     public int getScore() {
         return score;
